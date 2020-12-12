@@ -18,8 +18,8 @@ The robot is able to:
 **Main components**: four micro-servos, and an ultrasonic distance sensor
 
 
-<img align="left" src="images/robot.png" width="450">
-<img align="right" src="images/circuit.png" width="500">
+<img align="left" src="images/robot.png" width="300">
+<img align="right" src="images/circuit.png" width="350">
 
 
 
