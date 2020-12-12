@@ -1,4 +1,4 @@
-# Dancing Robot Project
+# Dancing Robot Project for ECE196
 More detailed information can be found in the ***"Presentation with scripts"*** pdf file.  
 There is a recording of the live demo of the presentation in the ***"Presentation with Demo"*** folder. (At the last page of the pdf)
 
