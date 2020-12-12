@@ -1,1 +1,16 @@
-# Dancing-Robot
+# Dancing Robot Project
+More detailed information can be found in the ***"Presentation with scripts"*** pdf file.  
+There is a recording of the live demo of the presentation in the ***"Presentation with Demo"*** folder. (At the last page of the pdf)
+
+<hr/>
+
+**Goal**: build and program a dancing robot using ***Arduino C***.
+
+The robot is able to:
+- dance (code designed by SunFounder, not us)
+- move forward, and move backward when it senses an obstacle within 5 cm (code designed by us) 
+
+<img src="images/robot.png" width="350">
+
+
+
