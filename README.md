@@ -15,7 +15,7 @@ The robot is able to:
 - **dance** (code designed by SunFounder, not us)
 - **move forward**, and **move backward** when it senses an obstacle within 5 cm (code designed by us)   
 
-**Main components**: four micro-servos, and an ultrasonic distance sensor
+**Main components**: an Arduino UNO board, a breadboard, four micro-servos, and an ultrasonic distance sensor
 
 
 <img align="left" src="images/robot.png" width="300">
