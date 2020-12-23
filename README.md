@@ -21,6 +21,8 @@ The robot is able to:
 <img align="left" src="images/robot.png" width="300">
 <img align="right" src="images/circuit.png" width="400">
 
+<br>
+<br>
 
 ## Video Demo
 
