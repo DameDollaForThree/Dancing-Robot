@@ -33,6 +33,13 @@ The robot is able to:
 <br>
 <br>
 
+<br>
+<br>
+
+<br>
+<br>
+
+
 ## Video Demo
 
 Here's a video of dancing:
