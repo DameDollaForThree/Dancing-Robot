@@ -22,5 +22,11 @@ The robot is able to:
 <img align="right" src="images/circuit.png" width="400">
 
 
+## Video Demo
 
+Here's a video of dancing:
+
+<img src='dance.gif' title='Video Walkthrough' width='350' alt='Video Walkthrough' />
+
+GIF created with [kap](https://getkap.co/).
 
